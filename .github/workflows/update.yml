@@ -1,11 +1,15 @@
-name: Weekly Update x2
- 
+name: MLF Weekly Update
+
 on:
   schedule:
     - cron: '0 9 * * 2'
     - cron: '0 11 * * 4'
   workflow_dispatch: {}
- 
+
+concurrency:
+  group: mlf-update
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -16,36 +20,31 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0
- 
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
- 
-      - name: Pull latest
-        run: git pull origin main
- 
+
       - name: Fetch Fleaflicker
         run: python 03_fetch_fleaflicker.py
- 
+
       - name: Aggregate
         run: python 05_aggregate.py
- 
+
       - name: Generate HTML
         run: python 06_generate_html.py
- 
-      - name: Commit and push if changed
+
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
           git add -A
           if git diff --staged --quiet; then
             echo "Keine Aenderungen."
           else
             git commit -m "Auto-update $(date -u +%Y-%m-%d)"
-            git push --force-with-lease
+            git push origin main
           fi
- 
