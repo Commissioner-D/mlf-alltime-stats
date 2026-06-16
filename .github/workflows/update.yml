@@ -1,11 +1,11 @@
-name: Weekly Update
-
+name: Weekly Update x2
+ 
 on:
   schedule:
-    - cron: '0 9 * * 2'   # Dienstag 09:00 UTC = 10:00 Winterzeit / 11:00 Sommerzeit
-    - cron: '0 11 * * 4'  # Donnerstag 11:00 UTC = 12:00 Winterzeit / 13:00 Sommerzeit
+    - cron: '0 9 * * 2'
+    - cron: '0 11 * * 4'
   workflow_dispatch: {}
-
+ 
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -16,21 +16,27 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
+        with:
+          ref: main
+          fetch-depth: 0
+ 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
+ 
+      - name: Pull latest
+        run: git pull origin main
+ 
       - name: Fetch Fleaflicker
         run: python 03_fetch_fleaflicker.py
-
+ 
       - name: Aggregate
         run: python 05_aggregate.py
-
+ 
       - name: Generate HTML
         run: python 06_generate_html.py
-
+ 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
@@ -40,6 +46,6 @@ jobs:
             echo "Keine Aenderungen."
           else
             git commit -m "Auto-update $(date -u +%Y-%m-%d)"
-            git pull --rebase origin main
-            git push
+            git push --force-with-lease
           fi
+ 
