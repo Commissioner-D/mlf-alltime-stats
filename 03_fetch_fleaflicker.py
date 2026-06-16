@@ -17,7 +17,7 @@ from pathlib import Path
 
 LEAGUE_ID = 338210
 SPORT = "NFL"
-SEASONS = [2023, 2024, 2025]
+SEASONS = [2023, 2024, 2025, 2026]
 SCRIPT_DIR = Path(__file__).parent
 FLEA_DIR = SCRIPT_DIR / "data" / "fleaflicker"
 API_BASE = "https://www.fleaflicker.com/api"
