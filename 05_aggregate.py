@@ -433,7 +433,7 @@ def main():
 
     output = {
         'meta': {
-            'generated': datetime.now().isoformat(timespec='seconds'),
+            'generated': datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'),
             'seasons': sorted(set(nfl_seasons) | set(flea_seasons)),
             'total_games': len(all_games),
         },
