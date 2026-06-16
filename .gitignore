@@ -1,0 +1,7 @@
+# NFL.com raw HTML cache - parsed JSONs reichen
+data/nfl/*/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo

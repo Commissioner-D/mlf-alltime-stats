@@ -1,0 +1,1328 @@
+{
+  "season": 2021,
+  "teams": {
+    "7": {
+      "team_id": 7,
+      "name": "Toronto Waterboyz",
+      "owner": "Opie",
+      "division_number": 3,
+      "division_name": "MFL D03",
+      "division_rank": 4,
+      "overall_rank": 15
+    },
+    "9": {
+      "team_id": 9,
+      "name": "Graz Scoundrels",
+      "owner": "Paul",
+      "division_number": 1,
+      "division_name": "MFL D01",
+      "division_rank": 3,
+      "overall_rank": 12
+    },
+    "4": {
+      "team_id": 4,
+      "name": "Semmel Warriors",
+      "owner": "Paul",
+      "division_number": 1,
+      "division_name": "MFL D01",
+      "division_rank": 4,
+      "overall_rank": 14
+    },
+    "14": {
+      "team_id": 14,
+      "name": "Corncob Stealers",
+      "owner": "Robert",
+      "division_number": 1,
+      "division_name": "MFL D01",
+      "division_rank": 2,
+      "overall_rank": 7
+    },
+    "10": {
+      "team_id": 10,
+      "name": "Orange Thrashers",
+      "owner": "Michael",
+      "division_number": 3,
+      "division_name": "MFL D03",
+      "division_rank": 1,
+      "overall_rank": 2
+    },
+    "11": {
+      "team_id": 11,
+      "name": "Grazer Dolphins",
+      "owner": "Philipp",
+      "division_number": 3,
+      "division_name": "MFL D03",
+      "division_rank": 3,
+      "overall_rank": 13
+    },
+    "15": {
+      "team_id": 15,
+      "name": "Graz Raccoons",
+      "owner": "Micha",
+      "division_number": 3,
+      "division_name": "MFL D03",
+      "division_rank": 2,
+      "overall_rank": 6
+    },
+    "2": {
+      "team_id": 2,
+      "name": "New Fernitz Dudemeisters",
+      "owner": "Gilbert",
+      "division_number": 1,
+      "division_name": "MFL D01",
+      "division_rank": 1,
+      "overall_rank": 4
+    },
+    "12": {
+      "team_id": 12,
+      "name": "Cloud Chasers",
+      "owner": "Joerg",
+      "division_number": 4,
+      "division_name": "MFL D04",
+      "division_rank": 2,
+      "overall_rank": 9
+    },
+    "5": {
+      "team_id": 5,
+      "name": "X-Ray Sackers",
+      "owner": "Gernot",
+      "division_number": 2,
+      "division_name": "MFL D02",
+      "division_rank": 4,
+      "overall_rank": 16
+    },
+    "6": {
+      "team_id": 6,
+      "name": "Saurau Lightning Rockets",
+      "owner": "Raphael",
+      "division_number": 4,
+      "division_name": "MFL D04",
+      "division_rank": 1,
+      "overall_rank": 5
+    },
+    "1": {
+      "team_id": 1,
+      "name": "Chuck Pirates",
+      "owner": "Dominik",
+      "division_number": 2,
+      "division_name": "MFL D02",
+      "division_rank": 3,
+      "overall_rank": 8
+    },
+    "13": {
+      "team_id": 13,
+      "name": "Vienna BBB",
+      "owner": "oscar",
+      "division_number": 4,
+      "division_name": "MFL D04",
+      "division_rank": 3,
+      "overall_rank": 10
+    },
+    "8": {
+      "team_id": 8,
+      "name": "Graz Moeflers",
+      "owner": "Maximilian",
+      "division_number": 2,
+      "division_name": "MFL D02",
+      "division_rank": 2,
+      "overall_rank": 3
+    },
+    "16": {
+      "team_id": 16,
+      "name": "Couchpotatos",
+      "owner": "Maze",
+      "division_number": 4,
+      "division_name": "MFL D04",
+      "division_rank": 4,
+      "overall_rank": 11
+    },
+    "3": {
+      "team_id": 3,
+      "name": "EiSnare Jerks",
+      "owner": "Thomas",
+      "division_number": 2,
+      "division_name": "MFL D02",
+      "division_rank": 1,
+      "overall_rank": 1
+    }
+  },
+  "regular_season": [
+    {
+      "t1_id": 7,
+      "t1_name": "Toronto Waterboyz",
+      "t1_score": 85.5,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 99.78,
+      "week": 1
+    },
+    {
+      "t1_id": 4,
+      "t1_name": "Semmel Warriors",
+      "t1_score": 58.02,
+      "t2_id": 14,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 108.84,
+      "week": 1
+    },
+    {
+      "t1_id": 10,
+      "t1_name": "Orange Thrashers",
+      "t1_score": 94.36,
+      "t2_id": 11,
+      "t2_name": "Grazer Dolphins",
+      "t2_score": 89.56,
+      "week": 1
+    },
+    {
+      "t1_id": 15,
+      "t1_name": "Graz Raccoons",
+      "t1_score": 73.94,
+      "t2_id": 2,
+      "t2_name": "New Fernitz Dudemeisters",
+      "t2_score": 106.26,
+      "week": 1
+    },
+    {
+      "t1_id": 12,
+      "t1_name": "Cloud Chasers",
+      "t1_score": 117.88,
+      "t2_id": 5,
+      "t2_name": "X-Ray Sackers",
+      "t2_score": 94.74,
+      "week": 1
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 83.68,
+      "t2_id": 1,
+      "t2_name": "Chuck Pirates",
+      "t2_score": 67.68,
+      "week": 1
+    },
+    {
+      "t1_id": 13,
+      "t1_name": "Vienna BBB",
+      "t1_score": 94.1,
+      "t2_id": 8,
+      "t2_name": "Graz Moeflers",
+      "t2_score": 122.42,
+      "week": 1
+    },
+    {
+      "t1_id": 16,
+      "t1_name": "Couchpotatos",
+      "t1_score": 71.72,
+      "t2_id": 3,
+      "t2_name": "EiSnare Jerks",
+      "t2_score": 100.46,
+      "week": 1
+    },
+    {
+      "t1_id": 14,
+      "t1_name": "Corncob Stealers",
+      "t1_score": 106.56,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 90.48,
+      "week": 2
+    },
+    {
+      "t1_id": 2,
+      "t1_name": "New Fernitz Dudemeisters",
+      "t1_score": 81.62,
+      "t2_id": 4,
+      "t2_name": "Semmel Warriors",
+      "t2_score": 71.08,
+      "week": 2
+    },
+    {
+      "t1_id": 1,
+      "t1_name": "Chuck Pirates",
+      "t1_score": 111.82,
+      "t2_id": 5,
+      "t2_name": "X-Ray Sackers",
+      "t2_score": 89.22,
+      "week": 2
+    },
+    {
+      "t1_id": 3,
+      "t1_name": "EiSnare Jerks",
+      "t1_score": 117.6,
+      "t2_id": 8,
+      "t2_name": "Graz Moeflers",
+      "t2_score": 89.88,
+      "week": 2
+    },
+    {
+      "t1_id": 16,
+      "t1_name": "Couchpotatos",
+      "t1_score": 84.9,
+      "t2_id": 11,
+      "t2_name": "Grazer Dolphins",
+      "t2_score": 64.7,
+      "week": 2
+    },
+    {
+      "t1_id": 12,
+      "t1_name": "Cloud Chasers",
+      "t1_score": 91.52,
+      "t2_id": 15,
+      "t2_name": "Graz Raccoons",
+      "t2_score": 113.22,
+      "week": 2
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 96.28,
+      "t2_id": 7,
+      "t2_name": "Toronto Waterboyz",
+      "t2_score": 89.46,
+      "week": 2
+    },
+    {
+      "t1_id": 13,
+      "t1_name": "Vienna BBB",
+      "t1_score": 66.56,
+      "t2_id": 10,
+      "t2_name": "Orange Thrashers",
+      "t2_score": 88.14,
+      "week": 2
+    },
+    {
+      "t1_id": 1,
+      "t1_name": "Chuck Pirates",
+      "t1_score": 88.74,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 95.38,
+      "week": 3
+    },
+    {
+      "t1_id": 8,
+      "t1_name": "Graz Moeflers",
+      "t1_score": 87.02,
+      "t2_id": 14,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 82.42,
+      "week": 3
+    },
+    {
+      "t1_id": 3,
+      "t1_name": "EiSnare Jerks",
+      "t1_score": 119.84,
+      "t2_id": 4,
+      "t2_name": "Semmel Warriors",
+      "t2_score": 86.44,
+      "week": 3
+    },
+    {
+      "t1_id": 5,
+      "t1_name": "X-Ray Sackers",
+      "t1_score": 69.84,
+      "t2_id": 2,
+      "t2_name": "New Fernitz Dudemeisters",
+      "t2_score": 80.72,
+      "week": 3
+    },
+    {
+      "t1_id": 15,
+      "t1_name": "Graz Raccoons",
+      "t1_score": 120.82,
+      "t2_id": 11,
+      "t2_name": "Grazer Dolphins",
+      "t2_score": 102.44,
+      "week": 3
+    },
+    {
+      "t1_id": 10,
+      "t1_name": "Orange Thrashers",
+      "t1_score": 88.98,
+      "t2_id": 7,
+      "t2_name": "Toronto Waterboyz",
+      "t2_score": 82.48,
+      "week": 3
+    },
+    {
+      "t1_id": 16,
+      "t1_name": "Couchpotatos",
+      "t1_score": 96.04,
+      "t2_id": 13,
+      "t2_name": "Vienna BBB",
+      "t2_score": 91.12,
+      "week": 3
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 66.24,
+      "t2_id": 12,
+      "t2_name": "Cloud Chasers",
+      "t2_score": 88.6,
+      "week": 3
+    },
+    {
+      "t1_id": 4,
+      "t1_name": "Semmel Warriors",
+      "t1_score": 102.58,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 115.52,
+      "week": 4
+    },
+    {
+      "t1_id": 2,
+      "t1_name": "New Fernitz Dudemeisters",
+      "t1_score": 58.46,
+      "t2_id": 14,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 88.22,
+      "week": 4
+    },
+    {
+      "t1_id": 8,
+      "t1_name": "Graz Moeflers",
+      "t1_score": 99.62,
+      "t2_id": 5,
+      "t2_name": "X-Ray Sackers",
+      "t2_score": 78.2,
+      "week": 4
+    },
+    {
+      "t1_id": 3,
+      "t1_name": "EiSnare Jerks",
+      "t1_score": 93.12,
+      "t2_id": 1,
+      "t2_name": "Chuck Pirates",
+      "t2_score": 82.98,
+      "week": 4
+    },
+    {
+      "t1_id": 7,
+      "t1_name": "Toronto Waterboyz",
+      "t1_score": 104.6,
+      "t2_id": 11,
+      "t2_name": "Grazer Dolphins",
+      "t2_score": 89.18,
+      "week": 4
+    },
+    {
+      "t1_id": 10,
+      "t1_name": "Orange Thrashers",
+      "t1_score": 71.06,
+      "t2_id": 15,
+      "t2_name": "Graz Raccoons",
+      "t2_score": 111.2,
+      "week": 4
+    },
+    {
+      "t1_id": 12,
+      "t1_name": "Cloud Chasers",
+      "t1_score": 126.42,
+      "t2_id": 13,
+      "t2_name": "Vienna BBB",
+      "t2_score": 103.52,
+      "week": 4
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 68.64,
+      "t2_id": 16,
+      "t2_name": "Couchpotatos",
+      "t2_score": 68.62,
+      "week": 4
+    },
+    {
+      "t1_id": 11,
+      "t1_name": "Grazer Dolphins",
+      "t1_score": 90.02,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 97.38,
+      "week": 5
+    },
+    {
+      "t1_id": 15,
+      "t1_name": "Graz Raccoons",
+      "t1_score": 66.0,
+      "t2_id": 14,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 73.0,
+      "week": 5
+    },
+    {
+      "t1_id": 3,
+      "t1_name": "EiSnare Jerks",
+      "t1_score": 118.86,
+      "t2_id": 5,
+      "t2_name": "X-Ray Sackers",
+      "t2_score": 88.3,
+      "week": 5
+    },
+    {
+      "t1_id": 8,
+      "t1_name": "Graz Moeflers",
+      "t1_score": 106.58,
+      "t2_id": 1,
+      "t2_name": "Chuck Pirates",
+      "t2_score": 155.42,
+      "week": 5
+    },
+    {
+      "t1_id": 7,
+      "t1_name": "Toronto Waterboyz",
+      "t1_score": 114.58,
+      "t2_id": 4,
+      "t2_name": "Semmel Warriors",
+      "t2_score": 76.82,
+      "week": 5
+    },
+    {
+      "t1_id": 10,
+      "t1_name": "Orange Thrashers",
+      "t1_score": 116.04,
+      "t2_id": 2,
+      "t2_name": "New Fernitz Dudemeisters",
+      "t2_score": 80.98,
+      "week": 5
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 90.14,
+      "t2_id": 13,
+      "t2_name": "Vienna BBB",
+      "t2_score": 107.0,
+      "week": 5
+    },
+    {
+      "t1_id": 12,
+      "t1_name": "Cloud Chasers",
+      "t1_score": 110.58,
+      "t2_id": 16,
+      "t2_name": "Couchpotatos",
+      "t2_score": 96.16,
+      "week": 5
+    },
+    {
+      "t1_id": 8,
+      "t1_name": "Graz Moeflers",
+      "t1_score": 113.2,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 89.74,
+      "week": 6
+    },
+    {
+      "t1_id": 3,
+      "t1_name": "EiSnare Jerks",
+      "t1_score": 102.46,
+      "t2_id": 14,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 84.42,
+      "week": 6
+    },
+    {
+      "t1_id": 5,
+      "t1_name": "X-Ray Sackers",
+      "t1_score": 68.44,
+      "t2_id": 4,
+      "t2_name": "Semmel Warriors",
+      "t2_score": 85.62,
+      "week": 6
+    },
+    {
+      "t1_id": 1,
+      "t1_name": "Chuck Pirates",
+      "t1_score": 114.3,
+      "t2_id": 2,
+      "t2_name": "New Fernitz Dudemeisters",
+      "t2_score": 78.28,
+      "week": 6
+    },
+    {
+      "t1_id": 12,
+      "t1_name": "Cloud Chasers",
+      "t1_score": 102.48,
+      "t2_id": 11,
+      "t2_name": "Grazer Dolphins",
+      "t2_score": 86.9,
+      "week": 6
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 90.54,
+      "t2_id": 15,
+      "t2_name": "Graz Raccoons",
+      "t2_score": 73.34,
+      "week": 6
+    },
+    {
+      "t1_id": 13,
+      "t1_name": "Vienna BBB",
+      "t1_score": 124.92,
+      "t2_id": 7,
+      "t2_name": "Toronto Waterboyz",
+      "t2_score": 55.98,
+      "week": 6
+    },
+    {
+      "t1_id": 16,
+      "t1_name": "Couchpotatos",
+      "t1_score": 111.2,
+      "t2_id": 10,
+      "t2_name": "Orange Thrashers",
+      "t2_score": 85.88,
+      "week": 6
+    },
+    {
+      "t1_id": 3,
+      "t1_name": "EiSnare Jerks",
+      "t1_score": 82.54,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 81.7,
+      "week": 7
+    },
+    {
+      "t1_id": 5,
+      "t1_name": "X-Ray Sackers",
+      "t1_score": 72.44,
+      "t2_id": 14,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 75.58,
+      "week": 7
+    },
+    {
+      "t1_id": 1,
+      "t1_name": "Chuck Pirates",
+      "t1_score": 74.68,
+      "t2_id": 4,
+      "t2_name": "Semmel Warriors",
+      "t2_score": 81.3,
+      "week": 7
+    },
+    {
+      "t1_id": 8,
+      "t1_name": "Graz Moeflers",
+      "t1_score": 91.44,
+      "t2_id": 2,
+      "t2_name": "New Fernitz Dudemeisters",
+      "t2_score": 53.92,
+      "week": 7
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 71.52,
+      "t2_id": 11,
+      "t2_name": "Grazer Dolphins",
+      "t2_score": 108.84,
+      "week": 7
+    },
+    {
+      "t1_id": 13,
+      "t1_name": "Vienna BBB",
+      "t1_score": 77.26,
+      "t2_id": 15,
+      "t2_name": "Graz Raccoons",
+      "t2_score": 95.06,
+      "week": 7
+    },
+    {
+      "t1_id": 16,
+      "t1_name": "Couchpotatos",
+      "t1_score": 82.76,
+      "t2_id": 7,
+      "t2_name": "Toronto Waterboyz",
+      "t2_score": 75.18,
+      "week": 7
+    },
+    {
+      "t1_id": 12,
+      "t1_name": "Cloud Chasers",
+      "t1_score": 97.54,
+      "t2_id": 10,
+      "t2_name": "Orange Thrashers",
+      "t2_score": 117.34,
+      "week": 7
+    },
+    {
+      "t1_id": 2,
+      "t1_name": "New Fernitz Dudemeisters",
+      "t1_score": 63.28,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 70.8,
+      "week": 8
+    },
+    {
+      "t1_id": 10,
+      "t1_name": "Orange Thrashers",
+      "t1_score": 124.8,
+      "t2_id": 14,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 104.86,
+      "week": 8
+    },
+    {
+      "t1_id": 11,
+      "t1_name": "Grazer Dolphins",
+      "t1_score": 90.12,
+      "t2_id": 4,
+      "t2_name": "Semmel Warriors",
+      "t2_score": 87.94,
+      "week": 8
+    },
+    {
+      "t1_id": 7,
+      "t1_name": "Toronto Waterboyz",
+      "t1_score": 48.2,
+      "t2_id": 15,
+      "t2_name": "Graz Raccoons",
+      "t2_score": 83.0,
+      "week": 8
+    },
+    {
+      "t1_id": 1,
+      "t1_name": "Chuck Pirates",
+      "t1_score": 88.82,
+      "t2_id": 5,
+      "t2_name": "X-Ray Sackers",
+      "t2_score": 93.56,
+      "week": 8
+    },
+    {
+      "t1_id": 16,
+      "t1_name": "Couchpotatos",
+      "t1_score": 45.06,
+      "t2_id": 13,
+      "t2_name": "Vienna BBB",
+      "t2_score": 103.36,
+      "week": 8
+    },
+    {
+      "t1_id": 12,
+      "t1_name": "Cloud Chasers",
+      "t1_score": 80.3,
+      "t2_id": 8,
+      "t2_name": "Graz Moeflers",
+      "t2_score": 82.08,
+      "week": 8
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 60.72,
+      "t2_id": 3,
+      "t2_name": "EiSnare Jerks",
+      "t2_score": 73.86,
+      "week": 8
+    },
+    {
+      "t1_id": 15,
+      "t1_name": "Graz Raccoons",
+      "t1_score": 58.36,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 45.02,
+      "week": 9
+    },
+    {
+      "t1_id": 7,
+      "t1_name": "Toronto Waterboyz",
+      "t1_score": 99.34,
+      "t2_id": 14,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 87.98,
+      "week": 9
+    },
+    {
+      "t1_id": 10,
+      "t1_name": "Orange Thrashers",
+      "t1_score": 95.56,
+      "t2_id": 4,
+      "t2_name": "Semmel Warriors",
+      "t2_score": 63.8,
+      "week": 9
+    },
+    {
+      "t1_id": 11,
+      "t1_name": "Grazer Dolphins",
+      "t1_score": 84.98,
+      "t2_id": 2,
+      "t2_name": "New Fernitz Dudemeisters",
+      "t2_score": 88.02,
+      "week": 9
+    },
+    {
+      "t1_id": 16,
+      "t1_name": "Couchpotatos",
+      "t1_score": 59.5,
+      "t2_id": 5,
+      "t2_name": "X-Ray Sackers",
+      "t2_score": 76.98,
+      "week": 9
+    },
+    {
+      "t1_id": 12,
+      "t1_name": "Cloud Chasers",
+      "t1_score": 58.64,
+      "t2_id": 1,
+      "t2_name": "Chuck Pirates",
+      "t2_score": 84.84,
+      "week": 9
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 49.84,
+      "t2_id": 8,
+      "t2_name": "Graz Moeflers",
+      "t2_score": 64.88,
+      "week": 9
+    },
+    {
+      "t1_id": 13,
+      "t1_name": "Vienna BBB",
+      "t1_score": 84.16,
+      "t2_id": 3,
+      "t2_name": "EiSnare Jerks",
+      "t2_score": 81.4,
+      "week": 9
+    },
+    {
+      "t1_id": 5,
+      "t1_name": "X-Ray Sackers",
+      "t1_score": 83.32,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 98.68,
+      "week": 10
+    },
+    {
+      "t1_id": 1,
+      "t1_name": "Chuck Pirates",
+      "t1_score": 83.2,
+      "t2_id": 14,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 100.06,
+      "week": 10
+    },
+    {
+      "t1_id": 8,
+      "t1_name": "Graz Moeflers",
+      "t1_score": 76.2,
+      "t2_id": 4,
+      "t2_name": "Semmel Warriors",
+      "t2_score": 50.6,
+      "week": 10
+    },
+    {
+      "t1_id": 3,
+      "t1_name": "EiSnare Jerks",
+      "t1_score": 44.44,
+      "t2_id": 2,
+      "t2_name": "New Fernitz Dudemeisters",
+      "t2_score": 65.74,
+      "week": 10
+    },
+    {
+      "t1_id": 13,
+      "t1_name": "Vienna BBB",
+      "t1_score": 120.84,
+      "t2_id": 11,
+      "t2_name": "Grazer Dolphins",
+      "t2_score": 59.02,
+      "week": 10
+    },
+    {
+      "t1_id": 16,
+      "t1_name": "Couchpotatos",
+      "t1_score": 83.54,
+      "t2_id": 15,
+      "t2_name": "Graz Raccoons",
+      "t2_score": 52.02,
+      "week": 10
+    },
+    {
+      "t1_id": 12,
+      "t1_name": "Cloud Chasers",
+      "t1_score": 95.64,
+      "t2_id": 7,
+      "t2_name": "Toronto Waterboyz",
+      "t2_score": 92.62,
+      "week": 10
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 90.24,
+      "t2_id": 10,
+      "t2_name": "Orange Thrashers",
+      "t2_score": 77.9,
+      "week": 10
+    },
+    {
+      "t1_id": 14,
+      "t1_name": "Corncob Stealers",
+      "t1_score": 126.24,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 80.06,
+      "week": 11
+    },
+    {
+      "t1_id": 2,
+      "t1_name": "New Fernitz Dudemeisters",
+      "t1_score": 83.68,
+      "t2_id": 4,
+      "t2_name": "Semmel Warriors",
+      "t2_score": 35.54,
+      "week": 11
+    },
+    {
+      "t1_id": 13,
+      "t1_name": "Vienna BBB",
+      "t1_score": 134.06,
+      "t2_id": 5,
+      "t2_name": "X-Ray Sackers",
+      "t2_score": 85.74,
+      "week": 11
+    },
+    {
+      "t1_id": 3,
+      "t1_name": "EiSnare Jerks",
+      "t1_score": 51.58,
+      "t2_id": 8,
+      "t2_name": "Graz Moeflers",
+      "t2_score": 46.64,
+      "week": 11
+    },
+    {
+      "t1_id": 15,
+      "t1_name": "Graz Raccoons",
+      "t1_score": 66.66,
+      "t2_id": 11,
+      "t2_name": "Grazer Dolphins",
+      "t2_score": 106.08,
+      "week": 11
+    },
+    {
+      "t1_id": 10,
+      "t1_name": "Orange Thrashers",
+      "t1_score": 94.28,
+      "t2_id": 7,
+      "t2_name": "Toronto Waterboyz",
+      "t2_score": 35.4,
+      "week": 11
+    },
+    {
+      "t1_id": 16,
+      "t1_name": "Couchpotatos",
+      "t1_score": 98.9,
+      "t2_id": 1,
+      "t2_name": "Chuck Pirates",
+      "t2_score": 104.78,
+      "week": 11
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 88.2,
+      "t2_id": 12,
+      "t2_name": "Cloud Chasers",
+      "t2_score": 68.1,
+      "week": 11
+    },
+    {
+      "t1_id": 4,
+      "t1_name": "Semmel Warriors",
+      "t1_score": 69.34,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 66.78,
+      "week": 12
+    },
+    {
+      "t1_id": 2,
+      "t1_name": "New Fernitz Dudemeisters",
+      "t1_score": 111.18,
+      "t2_id": 14,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 63.22,
+      "week": 12
+    },
+    {
+      "t1_id": 8,
+      "t1_name": "Graz Moeflers",
+      "t1_score": 93.0,
+      "t2_id": 5,
+      "t2_name": "X-Ray Sackers",
+      "t2_score": 80.7,
+      "week": 12
+    },
+    {
+      "t1_id": 3,
+      "t1_name": "EiSnare Jerks",
+      "t1_score": 79.3,
+      "t2_id": 1,
+      "t2_name": "Chuck Pirates",
+      "t2_score": 66.82,
+      "week": 12
+    },
+    {
+      "t1_id": 7,
+      "t1_name": "Toronto Waterboyz",
+      "t1_score": 87.0,
+      "t2_id": 11,
+      "t2_name": "Grazer Dolphins",
+      "t2_score": 95.06,
+      "week": 12
+    },
+    {
+      "t1_id": 10,
+      "t1_name": "Orange Thrashers",
+      "t1_score": 65.64,
+      "t2_id": 15,
+      "t2_name": "Graz Raccoons",
+      "t2_score": 92.48,
+      "week": 12
+    },
+    {
+      "t1_id": 12,
+      "t1_name": "Cloud Chasers",
+      "t1_score": 115.3,
+      "t2_id": 13,
+      "t2_name": "Vienna BBB",
+      "t2_score": 92.7,
+      "week": 12
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 75.28,
+      "t2_id": 16,
+      "t2_name": "Couchpotatos",
+      "t2_score": 72.18,
+      "week": 12
+    },
+    {
+      "t1_id": 10,
+      "t1_name": "Orange Thrashers",
+      "t1_score": 87.32,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 53.2,
+      "week": 13
+    },
+    {
+      "t1_id": 11,
+      "t1_name": "Grazer Dolphins",
+      "t1_score": 74.68,
+      "t2_id": 14,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 92.9,
+      "week": 13
+    },
+    {
+      "t1_id": 15,
+      "t1_name": "Graz Raccoons",
+      "t1_score": 105.0,
+      "t2_id": 4,
+      "t2_name": "Semmel Warriors",
+      "t2_score": 81.72,
+      "week": 13
+    },
+    {
+      "t1_id": 7,
+      "t1_name": "Toronto Waterboyz",
+      "t1_score": 50.12,
+      "t2_id": 2,
+      "t2_name": "New Fernitz Dudemeisters",
+      "t2_score": 83.14,
+      "week": 13
+    },
+    {
+      "t1_id": 3,
+      "t1_name": "EiSnare Jerks",
+      "t1_score": 107.82,
+      "t2_id": 5,
+      "t2_name": "X-Ray Sackers",
+      "t2_score": 103.4,
+      "week": 13
+    },
+    {
+      "t1_id": 8,
+      "t1_name": "Graz Moeflers",
+      "t1_score": 72.42,
+      "t2_id": 1,
+      "t2_name": "Chuck Pirates",
+      "t2_score": 84.48,
+      "week": 13
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 86.86,
+      "t2_id": 13,
+      "t2_name": "Vienna BBB",
+      "t2_score": 71.6,
+      "week": 13
+    },
+    {
+      "t1_id": 12,
+      "t1_name": "Cloud Chasers",
+      "t1_score": 80.36,
+      "t2_id": 16,
+      "t2_name": "Couchpotatos",
+      "t2_score": 81.14,
+      "week": 13
+    },
+    {
+      "t1_id": 2,
+      "t1_name": "New Fernitz Dudemeisters",
+      "t1_score": 113.0,
+      "t2_id": 9,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 78.14,
+      "week": 14
+    },
+    {
+      "t1_id": 4,
+      "t1_name": "Semmel Warriors",
+      "t1_score": 90.9,
+      "t2_id": 14,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 80.24,
+      "week": 14
+    },
+    {
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 75.92,
+      "t2_id": 5,
+      "t2_name": "X-Ray Sackers",
+      "t2_score": 57.82,
+      "week": 14
+    },
+    {
+      "t1_id": 13,
+      "t1_name": "Vienna BBB",
+      "t1_score": 70.22,
+      "t2_id": 1,
+      "t2_name": "Chuck Pirates",
+      "t2_score": 99.1,
+      "week": 14
+    },
+    {
+      "t1_id": 10,
+      "t1_name": "Orange Thrashers",
+      "t1_score": 130.02,
+      "t2_id": 11,
+      "t2_name": "Grazer Dolphins",
+      "t2_score": 86.04,
+      "week": 14
+    },
+    {
+      "t1_id": 7,
+      "t1_name": "Toronto Waterboyz",
+      "t1_score": 50.28,
+      "t2_id": 15,
+      "t2_name": "Graz Raccoons",
+      "t2_score": 100.98,
+      "week": 14
+    },
+    {
+      "t1_id": 16,
+      "t1_name": "Couchpotatos",
+      "t1_score": 95.04,
+      "t2_id": 8,
+      "t2_name": "Graz Moeflers",
+      "t2_score": 97.64,
+      "week": 14
+    },
+    {
+      "t1_id": 12,
+      "t1_name": "Cloud Chasers",
+      "t1_score": 89.52,
+      "t2_id": 3,
+      "t2_name": "EiSnare Jerks",
+      "t2_score": 118.52,
+      "week": 14
+    }
+  ],
+  "postseason": [
+    {
+      "week": 15,
+      "round": "Quarterfinal",
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 77.24,
+      "t2_id": 8,
+      "t2_name": "Graz Moeflers",
+      "t2_score": 65.78
+    },
+    {
+      "week": 15,
+      "round": "Quarterfinal",
+      "t1_id": 2,
+      "t1_name": "New Fernitz Dudemeisters",
+      "t1_score": 81.82,
+      "t2_id": 15,
+      "t2_name": "Graz Raccoons",
+      "t2_score": 86.76
+    },
+    {
+      "week": 16,
+      "round": "Semifinal",
+      "t1_id": 3,
+      "t1_name": "EiSnare Jerks",
+      "t1_score": 120.2,
+      "t2_id": 15,
+      "t2_name": "Graz Raccoons",
+      "t2_score": 95.98
+    },
+    {
+      "week": 16,
+      "round": "Semifinal",
+      "t1_id": 6,
+      "t1_name": "Saurau Lightning Rockets",
+      "t1_score": 114.54,
+      "t2_id": 10,
+      "t2_name": "Orange Thrashers",
+      "t2_score": 80.28
+    },
+    {
+      "week": 17,
+      "round": "Fantasy Super Bowl",
+      "t1_id": 3,
+      "t1_name": "EiSnare Jerks",
+      "t1_score": 77.52,
+      "t2_id": 6,
+      "t2_name": "Saurau Lightning Rockets",
+      "t2_score": 78.52
+    }
+  ],
+  "placement": [
+    {
+      "place": 1,
+      "team_id": 6,
+      "team_name": "Saurau Lightning Rockets",
+      "owner": "Raphael",
+      "extra": "Reg. Season: 9-5-0, 1,094.10 Points For"
+    },
+    {
+      "place": 2,
+      "team_id": 3,
+      "team_name": "EiSnare Jerks",
+      "owner": "Thomas",
+      "extra": "Reg. Season: 12-2-0, 1,291.80 Points For"
+    },
+    {
+      "place": 3,
+      "team_id": 15,
+      "team_name": "Graz Raccoons",
+      "owner": "Micha",
+      "extra": "Reg. Season: 9-5-0, 1,212.08 Points For"
+    },
+    {
+      "place": 4,
+      "team_id": 10,
+      "team_name": "Orange Thrashers",
+      "owner": null,
+      "extra": null
+    },
+    {
+      "place": 5,
+      "team_id": 8,
+      "team_name": "Graz Moeflers",
+      "owner": null,
+      "extra": null
+    },
+    {
+      "place": 6,
+      "team_id": 2,
+      "team_name": "New Fernitz Dudemeisters",
+      "owner": null,
+      "extra": null
+    },
+    {
+      "place": 7,
+      "team_id": 1,
+      "team_name": "Chuck Pirates",
+      "owner": null,
+      "extra": null
+    },
+    {
+      "place": 8,
+      "team_id": 14,
+      "team_name": "Corncob Stealers",
+      "owner": null,
+      "extra": null
+    },
+    {
+      "place": 9,
+      "team_id": 9,
+      "team_name": "Graz Scoundrels",
+      "owner": null,
+      "extra": null
+    },
+    {
+      "place": 10,
+      "team_id": 12,
+      "team_name": "Cloud Chasers",
+      "owner": null,
+      "extra": null
+    },
+    {
+      "place": 11,
+      "team_id": 13,
+      "team_name": "Vienna BBB",
+      "owner": null,
+      "extra": null
+    },
+    {
+      "place": 12,
+      "team_id": 11,
+      "team_name": "Grazer Dolphins",
+      "owner": null,
+      "extra": null
+    },
+    {
+      "place": 13,
+      "team_id": 16,
+      "team_name": "Couchpotatos",
+      "owner": null,
+      "extra": null
+    },
+    {
+      "place": 14,
+      "team_id": 4,
+      "team_name": "Semmel Warriors",
+      "owner": null,
+      "extra": null
+    },
+    {
+      "place": 15,
+      "team_id": 7,
+      "team_name": "Toronto Waterboyz",
+      "owner": null,
+      "extra": null
+    },
+    {
+      "place": 16,
+      "team_id": 5,
+      "team_name": "X-Ray Sackers",
+      "owner": null,
+      "extra": null
+    }
+  ],
+  "champion_id": 6,
+  "runner_up_id": 3,
+  "warnings": []
+}

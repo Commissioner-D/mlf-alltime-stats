@@ -51,7 +51,25 @@ header nav a.active, header nav a:hover {
   color: var(--text);
   text-decoration: none;
 }
-header .meta { margin-left: auto; color: var(--text-muted); font-size: 12px; }
+header .meta {
+  margin-left: auto;
+  color: var(--text-dim);
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+header .meta .last-update {
+  background: var(--bg-row);
+  border: 1px solid var(--border);
+  padding: 4px 10px;
+  border-radius: 3px;
+  color: var(--text);
+}
+header .meta .last-update strong {
+  color: var(--cyan);
+  margin-left: 4px;
+}
 
 main { padding: 20px; max-width: 1400px; margin: 0 auto; }
 .view { display: none; }
@@ -745,8 +763,9 @@ function handleRoute() {
 window.addEventListener('hashchange', handleRoute);
 
 // ============== Init ==============
-document.getElementById('meta').textContent =
-  `${DATA.meta.seasons[0]}–${DATA.meta.seasons[DATA.meta.seasons.length - 1]} \u00b7 ${DATA.meta.total_games} Spiele \u00b7 Updated ${DATA.meta.generated.slice(0, 10)}`;
+document.getElementById('meta').innerHTML =
+  `<span>${DATA.meta.seasons[0]}–${DATA.meta.seasons[DATA.meta.seasons.length - 1]} \u00b7 ${DATA.meta.total_games.toLocaleString('de-AT')} Spiele</span>` +
+  `<span class="last-update">Last update: <strong>${DATA.meta.generated.slice(0, 16).replace('T', ' ')}</strong></span>`;
 renderMain();
 renderRecords('highest');
 renderStreaks('win');
