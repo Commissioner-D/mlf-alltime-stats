@@ -1,8 +1,7 @@
 name: MLF Weekly Update
 
 on:
-schedule:
-
+  schedule:
     - cron: '30 6 * * 2'
     - cron: '0 10 * * 4'
   workflow_dispatch: {}
