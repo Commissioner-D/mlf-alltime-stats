@@ -2,10 +2,10 @@ name: MLF Weekly Update
 
 on:
 schedule:
-    - cron: '30 6 * * 2'   # Dienstag 06:30 UTC = 08:30 CEST / 07:30 CET
-    - cron: '0 10 * * 4'   # Donnerstag 10:00 UTC = 12:00 CEST / 11:00 CET
-  workflow_dispatch: {}
 
+    - cron: '30 6 * * 2'
+    - cron: '0 10 * * 4'
+  workflow_dispatch: {}
 concurrency:
   group: mlf-update
   cancel-in-progress: true
