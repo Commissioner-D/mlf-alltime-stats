@@ -17,17 +17,22 @@ from pathlib import Path
 
 LEAGUE_ID = 338210
 SPORT = "NFL"
-SEASONS = [2023, 2024, 2025]
 SCRIPT_DIR = Path(__file__).parent
 FLEA_DIR = SCRIPT_DIR / "data" / "fleaflicker"
 API_BASE = "https://www.fleaflicker.com/api"
 RATE_LIMIT = 0.5
 
-# Aktuelle Saison wird immer neu gefetcht, alte gecacht.
-# Bei Start einer neuen Saison: in SEASONS oben aufnehmen und hier
-# CURRENT_SEASON auf das Jahr setzen.
+# Auto-Season: erkennt automatisch welche Saisons geholt werden.
+# NFL-Saison startet im September. Ab August wird das aktuelle Jahr
+# als laufende Saison behandelt und bei jedem Lauf neu gefetcht.
+# Aeltere Saisons kommen aus dem Cache.
+FIRST_SEASON = 2023
 FORCE_REFRESH_CURRENT = True
-CURRENT_SEASON = 2026
+
+from datetime import datetime, timezone
+_now = datetime.now(timezone.utc)
+CURRENT_SEASON = _now.year if _now.month >= 8 else _now.year - 1
+SEASONS = list(range(FIRST_SEASON, CURRENT_SEASON + 1))
 
 
 def fetch_api(endpoint, **params):
