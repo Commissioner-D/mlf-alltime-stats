@@ -468,7 +468,7 @@ def main():
     print("Champions (chronologisch):")
     for c in output['champions']:
         s = f"{c['score'][0]}-{c['score'][1]}" if c['score'] else '?'
-        print(f"  {c['season']}: {c['champion']:32s} bezwingt {c['runner_up']:32s}  ({s})")
+        print(f"  {c['season']}: {(c['champion'] or '?'):32s} bezwingt {(c['runner_up'] or '?'):32s}  ({s})")
 
 
 if __name__ == "__main__":
