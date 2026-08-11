@@ -1,0 +1,105 @@
+{
+  "season": 2026,
+  "teams": {
+    "1743511": {
+      "team_id": 1743511,
+      "name": "Semmel Warriors",
+      "owner": "paul-semmel",
+      "division": "Rigel"
+    },
+    "1748415": {
+      "team_id": 1748415,
+      "name": "Graz Scoundrels",
+      "owner": "Pablo95",
+      "division": "Rigel"
+    },
+    "1743547": {
+      "team_id": 1743547,
+      "name": "Corncob Stealers",
+      "owner": "Robert0815",
+      "division": "Rigel"
+    },
+    "1743561": {
+      "team_id": 1743561,
+      "name": "New Fernitz Dudemeisters",
+      "owner": "Gentlebert",
+      "division": "Rigel"
+    },
+    "1743851": {
+      "team_id": 1743851,
+      "name": "Graz Moeflers",
+      "owner": "rupertmoefler",
+      "division": "Sirius"
+    },
+    "1730487": {
+      "team_id": 1730487,
+      "name": "Chuck Pirates",
+      "owner": "Commissioner-D",
+      "division": "Sirius"
+    },
+    "1740692": {
+      "team_id": 1740692,
+      "name": "Waltendorf Walrus",
+      "owner": "DirkSkywalker",
+      "division": "Sirius"
+    },
+    "1743544": {
+      "team_id": 1743544,
+      "name": "X-Ray Sackers",
+      "owner": "Notti",
+      "division": "Sirius"
+    },
+    "1740277": {
+      "team_id": 1740277,
+      "name": "Graz Raccoons",
+      "owner": "KnechtRuprecht",
+      "division": "Vega"
+    },
+    "1740691": {
+      "team_id": 1740691,
+      "name": "Toronto WaterBoyz",
+      "owner": "BurRiz",
+      "division": "Vega"
+    },
+    "1744030": {
+      "team_id": 1744030,
+      "name": "Cheeseheads",
+      "owner": "Sandro91",
+      "division": "Vega"
+    },
+    "1748247": {
+      "team_id": 1748247,
+      "name": "Herz-Jesu Hillbillies",
+      "owner": "CptCurl",
+      "division": "Vega"
+    },
+    "1748478": {
+      "team_id": 1748478,
+      "name": "Sparkling Unicorns",
+      "owner": "KillerKitty",
+      "division": "Polaris"
+    },
+    "1745690": {
+      "team_id": 1745690,
+      "name": "Vienna BBB",
+      "owner": "Oscar_VBBB",
+      "division": "Polaris"
+    },
+    "1749149": {
+      "team_id": 1749149,
+      "name": "Großarl Goats",
+      "owner": "Gorus",
+      "division": "Polaris"
+    },
+    "1748858": {
+      "team_id": 1748858,
+      "name": "Saurau Lightning Rockets",
+      "owner": "Saurau_FF",
+      "division": "Polaris"
+    }
+  },
+  "regular_season": [],
+  "postseason": [],
+  "champion_id": null,
+  "runner_up_id": null
+}

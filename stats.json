@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-30T10:41:51Z",
+    "generated": "2026-08-11T10:06:51Z",
     "seasons": [
       2015,
       2016,
@@ -12,7 +12,8 @@
       2022,
       2023,
       2024,
-      2025
+      2025,
+      2026
     ],
     "total_games": 1247
   },
@@ -1527,6 +1528,12 @@
         121.42,
         109.82
       ]
+    },
+    {
+      "season": 2026,
+      "champion": null,
+      "runner_up": null,
+      "score": null
     }
   ],
   "postseason_perf": [
