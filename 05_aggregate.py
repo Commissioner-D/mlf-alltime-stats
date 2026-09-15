@@ -401,6 +401,40 @@ def main():
             for s in m['seasons']:
                 lookup[(m['platform'], m['team_id'], s)] = team['name']
 
+    # Auto-Carry-Forward: Taucht eine team_id in einer NEUEREN Saison auf
+    # als ihre letzte gemappte, wird das Mapping automatisch fortgeschrieben.
+    # (Sonst fallen ab jeder neuen Saison alle Spiele stillschweigend raus,
+    # bis team_mapping.json haendisch ergaenzt wird.)
+    latest = {}  # (platform, team_id) -> (letzte gemappte Saison, canonical_name)
+    for (platform, tid, season), name in lookup.items():
+        key = (platform, tid)
+        if key not in latest or season > latest[key][0]:
+            latest[key] = (season, name)
+
+    carried = {}   # (platform, tid, year) -> canonical_name
+    renamed = []   # Namensabweichungen zur Kontrolle im Log
+    for src_seasons, platform in [(nfl_seasons, 'nfl'), (flea_seasons, 'fleaflicker')]:
+        for year, data in src_seasons.items():
+            for g in data.get('regular_season', []) + data.get('postseason', []):
+                for tid, tname in [(g['t1_id'], g.get('t1_name')),
+                                    (g['t2_id'], g.get('t2_name'))]:
+                    if (platform, tid, year) in lookup or (platform, tid, year) in carried:
+                        continue
+                    prev = latest.get((platform, tid))
+                    if prev and year > prev[0]:
+                        carried[(platform, tid, year)] = prev[1]
+                        if tname and tname != prev[1]:
+                            renamed.append((year, tid, prev[1], tname))
+    lookup.update(carried)
+    if carried:
+        by_year = sorted({(y, name) for (_, _, y), name in carried.items()})
+        print(f"  {len(carried)} Zuordnungen automatisch fortgeschrieben:")
+        for y, name in by_year:
+            print(f"    {y}: {name}")
+    for year, tid, old, new in renamed:
+        print(f"  WARNUNG: Team-ID {tid} heisst {year} '{new}', gemappt als '{old}'"
+              f" — bei Ownerwechsel team_mapping.json anpassen!")
+
     # Flatten alle Spiele mit Canonical-Namen
     all_games = []
     unmapped = 0
@@ -423,6 +457,11 @@ def main():
                         't2': t2, 't2_id': g['t2_id'], 't2_score': g['t2_score'],
                     })
     print(f"  {len(all_games)} Spiele insgesamt, {unmapped} unzugeordnet")
+    if unmapped:
+        raise SystemExit(
+            f"FEHLER: {unmapped} Spiele ohne Team-Zuordnung — Abbruch, "
+            f"stats.json wird NICHT geschrieben. team_mapping.json pruefen."
+        )
 
     # Subsets
     rs_games = [g for g in all_games if g['type'] == 'regular']
