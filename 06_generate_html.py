@@ -470,17 +470,8 @@ const FLEA_LEAGUE_ID = 338210;
 
 function gameLink(season, week, type, team_id, game_id) {
   if (!season) return null;
-  if (season <= 2022) {
-    if (type === 'postseason') {
-      return { href: `https://fantasy.nfl.com/league/${NFL_LEAGUE_ID}/history/${season}/playoffs`,
-               platform: 'nfl', label: 'NFL.com Playoffs' };
-    }
-    if (team_id) {
-      return { href: `https://fantasy.nfl.com/league/${NFL_LEAGUE_ID}/history/${season}/teamgamecenter?teamId=${team_id}&week=${week}`,
-               platform: 'nfl', label: 'NFL.com Game Center' };
-    }
-    return { href: `https://fantasy.nfl.com/league/${NFL_LEAGUE_ID}/history/${season}/schedule?gameType=REG&week=${week || ''}`,
-             platform: 'nfl', label: 'NFL.com' };
+    if (season <= 2022) {
+    return null; // fantasy.nfl.com abgeschaltet — Links tot
   } else {
     if (game_id) {
       return { href: `https://www.fleaflicker.com/nfl/leagues/${FLEA_LEAGUE_ID}/scores/${game_id}`,
