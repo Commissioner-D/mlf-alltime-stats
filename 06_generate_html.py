@@ -459,7 +459,7 @@ const FLEA_LEAGUE_ID = 338210;
 
 function gameLink(season, week, type, team_id, game_id) {
   if (!season) return null;
-    if (season <= 2022) {
+  if (season <= 2022) {
     return null; // fantasy.nfl.com abgeschaltet — Links tot
   } else {
     if (game_id) {
@@ -582,21 +582,6 @@ renderSortable(
   DATA.postseason_perf,
   poPerfState
 );
-
-// ============== Top Scores ==============
-document.getElementById('top-scores-body').innerHTML = DATA.top_scores.map((s, i) => `
-  <tr>
-    <td><span class="rank">${i + 1}</span></td>
-    <td>${teamCell(s.team)}</td>
-    <td class="num"><span class="win-pill">${fmt(s.score, 2)}</span></td>
-    <td>${teamCell(s.opponent)}</td>
-    <td class="num">${fmt(s.opp_score, 2)}</td>
-    <td class="num">${s.season}</td>
-    <td class="num">Wk ${s.week}</td>
-    <td>${typeTag(s.type, s.round)}</td>
-    <td>${gameLinkIcon(s.season, s.week, s.type, s.team_id, s.game_id)}</td>
-  </tr>
-`).join('');
 
 // ============== Champions ==============
 document.getElementById('champions-body').innerHTML = DATA.champions.map(c => {
