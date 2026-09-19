@@ -380,17 +380,6 @@ td .score-tie    { color: var(--orange); font-weight: 600; }
     </section>
 
     <section>
-      <h2>Most Points per Game (Top 10)</h2>
-      <table class="stat">
-        <thead><tr>
-          <th>#</th><th>Team</th><th class="num">Score</th><th>Opponent</th><th class="num">Opp.</th>
-          <th class="num">Season</th><th class="num">Week</th><th>Type</th><th></th>
-        </tr></thead>
-        <tbody id="top-scores-body"></tbody>
-      </table>
-    </section>
-
-    <section>
       <h2>Champions History</h2>
       <table class="stat">
         <thead><tr>
