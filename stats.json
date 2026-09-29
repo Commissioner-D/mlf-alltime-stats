@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-09-24T14:31:27Z",
+    "generated": "2026-09-29T13:10:16Z",
     "seasons": [
       2015,
       2016,
@@ -15,7 +15,7 @@
       2025,
       2026
     ],
-    "total_games": 1263
+    "total_games": 1271
   },
   "teams": [
     {
@@ -155,29 +155,29 @@
         "team": "Chuck Pirates",
         "active": true,
         "seasons": 12,
-        "games": 161,
+        "games": 162,
         "wins": 99,
-        "losses": 62,
+        "losses": 63,
         "ties": 0,
-        "pct": 0.615,
-        "points": 15712.12,
-        "points_against": 13869.94,
-        "avg_pg": 97.59,
-        "avg_ps": 1309.34
+        "pct": 0.611,
+        "points": 15776.48,
+        "points_against": 13980.6,
+        "avg_pg": 97.39,
+        "avg_ps": 1314.71
       },
       {
         "team": "New Fernitz Dudemeisters",
         "active": true,
         "seasons": 12,
-        "games": 156,
+        "games": 157,
         "wins": 81,
         "losses": 75,
-        "ties": 0,
-        "pct": 0.519,
-        "points": 13796.18,
-        "points_against": 13536.02,
-        "avg_pg": 88.44,
-        "avg_ps": 1149.68
+        "ties": 1,
+        "pct": 0.516,
+        "points": 13889.92,
+        "points_against": 13629.76,
+        "avg_pg": 88.47,
+        "avg_ps": 1157.49
       },
       {
         "team": "EiSnare Jerks",
@@ -197,85 +197,85 @@
         "team": "Semmel Warriors",
         "active": true,
         "seasons": 12,
-        "games": 162,
+        "games": 163,
         "wins": 93,
-        "losses": 69,
+        "losses": 70,
         "ties": 0,
-        "pct": 0.574,
-        "points": 15081.06,
-        "points_against": 14145.5,
+        "pct": 0.571,
+        "points": 15174.04,
+        "points_against": 14246.04,
         "avg_pg": 93.09,
-        "avg_ps": 1256.75
+        "avg_ps": 1264.5
       },
       {
         "team": "X-Ray Sackers",
         "active": true,
         "seasons": 12,
-        "games": 153,
+        "games": 154,
         "wins": 58,
-        "losses": 95,
+        "losses": 96,
         "ties": 0,
-        "pct": 0.379,
-        "points": 12778.96,
-        "points_against": 14089.08,
-        "avg_pg": 83.52,
-        "avg_ps": 1064.91
+        "pct": 0.377,
+        "points": 12850.08,
+        "points_against": 14200.72,
+        "avg_pg": 83.44,
+        "avg_ps": 1070.84
       },
       {
         "team": "Saurau Lightning Rockets",
         "active": true,
         "seasons": 12,
-        "games": 163,
+        "games": 164,
         "wins": 85,
-        "losses": 78,
+        "losses": 79,
         "ties": 0,
-        "pct": 0.521,
-        "points": 13947.74,
-        "points_against": 13985.28,
-        "avg_pg": 85.57,
-        "avg_ps": 1162.31
+        "pct": 0.518,
+        "points": 14021.98,
+        "points_against": 14097.84,
+        "avg_pg": 85.5,
+        "avg_ps": 1168.5
       },
       {
         "team": "Toronto WaterBoyz",
         "active": true,
         "seasons": 12,
-        "games": 151,
-        "wins": 54,
+        "games": 152,
+        "wins": 55,
         "losses": 97,
         "ties": 0,
-        "pct": 0.358,
-        "points": 12115.52,
-        "points_against": 13767.28,
-        "avg_pg": 80.24,
-        "avg_ps": 1009.63
+        "pct": 0.362,
+        "points": 12243.1,
+        "points_against": 13854.42,
+        "avg_pg": 80.55,
+        "avg_ps": 1020.26
       },
       {
         "team": "Graz Moeflers",
         "active": true,
         "seasons": 12,
-        "games": 166,
-        "wins": 103,
+        "games": 167,
+        "wins": 104,
         "losses": 63,
         "ties": 0,
-        "pct": 0.62,
-        "points": 15542.28,
-        "points_against": 14666.8,
-        "avg_pg": 93.63,
-        "avg_ps": 1295.19
+        "pct": 0.623,
+        "points": 15652.94,
+        "points_against": 14731.16,
+        "avg_pg": 93.73,
+        "avg_ps": 1304.41
       },
       {
         "team": "Graz Scoundrels",
         "active": true,
         "seasons": 12,
-        "games": 158,
+        "games": 159,
         "wins": 72,
         "losses": 86,
-        "ties": 0,
-        "pct": 0.456,
-        "points": 13907.78,
-        "points_against": 14444.76,
-        "avg_pg": 88.02,
-        "avg_ps": 1158.98
+        "ties": 1,
+        "pct": 0.453,
+        "points": 14001.52,
+        "points_against": 14538.5,
+        "avg_pg": 88.06,
+        "avg_ps": 1166.79
       },
       {
         "team": "Orange Thrashers",
@@ -323,15 +323,15 @@
         "team": "Cheeseheads",
         "active": true,
         "seasons": 5,
-        "games": 59,
+        "games": 60,
         "wins": 26,
-        "losses": 33,
+        "losses": 34,
         "ties": 0,
-        "pct": 0.441,
-        "points": 5413.48,
-        "points_against": 5497.46,
-        "avg_pg": 91.75,
-        "avg_ps": 1082.7
+        "pct": 0.433,
+        "points": 5500.62,
+        "points_against": 5625.04,
+        "avg_pg": 91.68,
+        "avg_ps": 1100.12
       },
       {
         "team": "Cloud Chasers",
@@ -365,15 +365,15 @@
         "team": "Vienna BBB",
         "active": true,
         "seasons": 11,
-        "games": 144,
+        "games": 145,
         "wins": 72,
-        "losses": 72,
+        "losses": 73,
         "ties": 0,
-        "pct": 0.5,
-        "points": 12359.0,
-        "points_against": 12541.78,
-        "avg_pg": 85.83,
-        "avg_ps": 1123.55
+        "pct": 0.497,
+        "points": 12425.18,
+        "points_against": 12652.34,
+        "avg_pg": 85.69,
+        "avg_ps": 1129.56
       },
       {
         "team": "SV Hinterberg",
@@ -407,29 +407,29 @@
         "team": "Corncob Stealers",
         "active": true,
         "seasons": 7,
-        "games": 85,
+        "games": 86,
         "wins": 41,
-        "losses": 44,
+        "losses": 45,
         "ties": 0,
-        "pct": 0.482,
-        "points": 8000.06,
-        "points_against": 7920.96,
-        "avg_pg": 94.12,
-        "avg_ps": 1142.87
+        "pct": 0.477,
+        "points": 8108.7,
+        "points_against": 8055.14,
+        "avg_pg": 94.29,
+        "avg_ps": 1158.39
       },
       {
         "team": "Graz Raccoons",
         "active": true,
         "seasons": 12,
-        "games": 164,
-        "wins": 94,
+        "games": 165,
+        "wins": 95,
         "losses": 70,
         "ties": 0,
-        "pct": 0.573,
-        "points": 15527.3,
-        "points_against": 14611.22,
-        "avg_pg": 94.68,
-        "avg_ps": 1293.94
+        "pct": 0.576,
+        "points": 15661.48,
+        "points_against": 14719.86,
+        "avg_pg": 94.92,
+        "avg_ps": 1305.12
       },
       {
         "team": "SchallerstrosnPackers",
@@ -463,57 +463,57 @@
         "team": "Großarl Goats",
         "active": true,
         "seasons": 3,
-        "games": 30,
-        "wins": 14,
+        "games": 31,
+        "wins": 15,
         "losses": 16,
         "ties": 0,
-        "pct": 0.467,
-        "points": 2986.36,
-        "points_against": 2921.92,
-        "avg_pg": 99.55,
-        "avg_ps": 995.45
+        "pct": 0.484,
+        "points": 3098.92,
+        "points_against": 2996.16,
+        "avg_pg": 99.97,
+        "avg_ps": 1032.97
       },
       {
         "team": "Waltendorf Walrus",
         "active": true,
         "seasons": 4,
-        "games": 46,
-        "wins": 29,
+        "games": 47,
+        "wins": 30,
         "losses": 17,
         "ties": 0,
-        "pct": 0.63,
-        "points": 4534.18,
-        "points_against": 4330.22,
-        "avg_pg": 98.57,
-        "avg_ps": 1133.55
+        "pct": 0.638,
+        "points": 4644.74,
+        "points_against": 4396.4,
+        "avg_pg": 98.82,
+        "avg_ps": 1161.19
       },
       {
         "team": "Sparkling Unicorns",
         "active": true,
         "seasons": 3,
-        "games": 32,
-        "wins": 17,
+        "games": 33,
+        "wins": 18,
         "losses": 15,
         "ties": 0,
-        "pct": 0.531,
-        "points": 3144.74,
-        "points_against": 2973.12,
-        "avg_pg": 98.27,
-        "avg_ps": 1048.25
+        "pct": 0.545,
+        "points": 3256.38,
+        "points_against": 3044.24,
+        "avg_pg": 98.68,
+        "avg_ps": 1085.46
       },
       {
         "team": "Herz-Jesu Hillbillies",
         "active": true,
         "seasons": 2,
-        "games": 16,
-        "wins": 3,
+        "games": 17,
+        "wins": 4,
         "losses": 13,
         "ties": 0,
-        "pct": 0.188,
-        "points": 1322.38,
-        "points_against": 1487.42,
-        "avg_pg": 82.65,
-        "avg_ps": 661.19
+        "pct": 0.235,
+        "points": 1422.92,
+        "points_against": 1580.4,
+        "avg_pg": 83.7,
+        "avg_ps": 711.46
       }
     ],
     "regular_season": [
@@ -521,29 +521,29 @@
         "team": "Chuck Pirates",
         "active": true,
         "seasons": 12,
-        "games": 151,
+        "games": 152,
         "wins": 96,
-        "losses": 55,
+        "losses": 56,
         "ties": 0,
-        "pct": 0.636,
-        "points": 14692.42,
-        "points_against": 12817.84,
-        "avg_pg": 97.3,
-        "avg_ps": 1224.37
+        "pct": 0.632,
+        "points": 14756.78,
+        "points_against": 12928.5,
+        "avg_pg": 97.08,
+        "avg_ps": 1229.73
       },
       {
         "team": "New Fernitz Dudemeisters",
         "active": true,
         "seasons": 12,
-        "games": 151,
+        "games": 152,
         "wins": 80,
         "losses": 71,
-        "ties": 0,
-        "pct": 0.53,
-        "points": 13364.08,
-        "points_against": 13051.24,
-        "avg_pg": 88.5,
-        "avg_ps": 1113.67
+        "ties": 1,
+        "pct": 0.526,
+        "points": 13457.82,
+        "points_against": 13144.98,
+        "avg_pg": 88.54,
+        "avg_ps": 1121.49
       },
       {
         "team": "EiSnare Jerks",
@@ -563,85 +563,85 @@
         "team": "Semmel Warriors",
         "active": true,
         "seasons": 12,
-        "games": 151,
+        "games": 152,
         "wins": 87,
-        "losses": 64,
+        "losses": 65,
         "ties": 0,
-        "pct": 0.576,
-        "points": 14044.74,
-        "points_against": 13156.1,
+        "pct": 0.572,
+        "points": 14137.72,
+        "points_against": 13256.64,
         "avg_pg": 93.01,
-        "avg_ps": 1170.39
+        "avg_ps": 1178.14
       },
       {
         "team": "X-Ray Sackers",
         "active": true,
         "seasons": 12,
-        "games": 151,
+        "games": 152,
         "wins": 57,
-        "losses": 94,
+        "losses": 95,
         "ties": 0,
-        "pct": 0.377,
-        "points": 12572.44,
-        "points_against": 13849.38,
-        "avg_pg": 83.26,
-        "avg_ps": 1047.7
+        "pct": 0.375,
+        "points": 12643.56,
+        "points_against": 13961.02,
+        "avg_pg": 83.18,
+        "avg_ps": 1053.63
       },
       {
         "team": "Saurau Lightning Rockets",
         "active": true,
         "seasons": 12,
-        "games": 151,
+        "games": 152,
         "wins": 76,
-        "losses": 75,
+        "losses": 76,
         "ties": 0,
-        "pct": 0.503,
-        "points": 12759.12,
-        "points_against": 12940.16,
-        "avg_pg": 84.5,
-        "avg_ps": 1063.26
+        "pct": 0.5,
+        "points": 12833.36,
+        "points_against": 13052.72,
+        "avg_pg": 84.43,
+        "avg_ps": 1069.45
       },
       {
         "team": "Toronto WaterBoyz",
         "active": true,
         "seasons": 12,
-        "games": 151,
-        "wins": 54,
+        "games": 152,
+        "wins": 55,
         "losses": 97,
         "ties": 0,
-        "pct": 0.358,
-        "points": 12115.52,
-        "points_against": 13767.28,
-        "avg_pg": 80.24,
-        "avg_ps": 1009.63
+        "pct": 0.362,
+        "points": 12243.1,
+        "points_against": 13854.42,
+        "avg_pg": 80.55,
+        "avg_ps": 1020.26
       },
       {
         "team": "Graz Moeflers",
         "active": true,
         "seasons": 12,
-        "games": 151,
-        "wins": 93,
+        "games": 152,
+        "wins": 94,
         "losses": 58,
         "ties": 0,
-        "pct": 0.616,
-        "points": 14001.26,
-        "points_against": 13340.64,
-        "avg_pg": 92.72,
-        "avg_ps": 1166.77
+        "pct": 0.618,
+        "points": 14111.92,
+        "points_against": 13405.0,
+        "avg_pg": 92.84,
+        "avg_ps": 1175.99
       },
       {
         "team": "Graz Scoundrels",
         "active": true,
         "seasons": 12,
-        "games": 151,
+        "games": 152,
         "wins": 69,
         "losses": 82,
-        "ties": 0,
-        "pct": 0.457,
-        "points": 13229.58,
-        "points_against": 13727.84,
-        "avg_pg": 87.61,
-        "avg_ps": 1102.47
+        "ties": 1,
+        "pct": 0.454,
+        "points": 13323.32,
+        "points_against": 13821.58,
+        "avg_pg": 87.65,
+        "avg_ps": 1110.28
       },
       {
         "team": "Orange Thrashers",
@@ -689,15 +689,15 @@
         "team": "Cheeseheads",
         "active": true,
         "seasons": 5,
-        "games": 58,
+        "games": 59,
         "wins": 26,
-        "losses": 32,
+        "losses": 33,
         "ties": 0,
-        "pct": 0.448,
-        "points": 5321.82,
-        "points_against": 5390.52,
-        "avg_pg": 91.76,
-        "avg_ps": 1064.36
+        "pct": 0.441,
+        "points": 5408.96,
+        "points_against": 5518.1,
+        "avg_pg": 91.68,
+        "avg_ps": 1081.79
       },
       {
         "team": "Cloud Chasers",
@@ -731,15 +731,15 @@
         "team": "Vienna BBB",
         "active": true,
         "seasons": 11,
-        "games": 137,
+        "games": 138,
         "wins": 69,
-        "losses": 68,
+        "losses": 69,
         "ties": 0,
-        "pct": 0.504,
-        "points": 11739.2,
-        "points_against": 11886.84,
-        "avg_pg": 85.69,
-        "avg_ps": 1067.2
+        "pct": 0.5,
+        "points": 11805.38,
+        "points_against": 11997.4,
+        "avg_pg": 85.55,
+        "avg_ps": 1073.22
       },
       {
         "team": "SV Hinterberg",
@@ -773,29 +773,29 @@
         "team": "Corncob Stealers",
         "active": true,
         "seasons": 7,
-        "games": 85,
+        "games": 86,
         "wins": 41,
-        "losses": 44,
+        "losses": 45,
         "ties": 0,
-        "pct": 0.482,
-        "points": 8000.06,
-        "points_against": 7920.96,
-        "avg_pg": 94.12,
-        "avg_ps": 1142.87
+        "pct": 0.477,
+        "points": 8108.7,
+        "points_against": 8055.14,
+        "avg_pg": 94.29,
+        "avg_ps": 1158.39
       },
       {
         "team": "Graz Raccoons",
         "active": true,
         "seasons": 12,
-        "games": 151,
-        "wins": 87,
+        "games": 152,
+        "wins": 88,
         "losses": 64,
         "ties": 0,
-        "pct": 0.576,
-        "points": 14201.98,
-        "points_against": 13180.6,
-        "avg_pg": 94.05,
-        "avg_ps": 1183.5
+        "pct": 0.579,
+        "points": 14336.16,
+        "points_against": 13289.24,
+        "avg_pg": 94.32,
+        "avg_ps": 1194.68
       },
       {
         "team": "SchallerstrosnPackers",
@@ -829,57 +829,57 @@
         "team": "Großarl Goats",
         "active": true,
         "seasons": 3,
-        "games": 30,
-        "wins": 14,
+        "games": 31,
+        "wins": 15,
         "losses": 16,
         "ties": 0,
-        "pct": 0.467,
-        "points": 2986.36,
-        "points_against": 2921.92,
-        "avg_pg": 99.55,
-        "avg_ps": 995.45
+        "pct": 0.484,
+        "points": 3098.92,
+        "points_against": 2996.16,
+        "avg_pg": 99.97,
+        "avg_ps": 1032.97
       },
       {
         "team": "Waltendorf Walrus",
         "active": true,
         "seasons": 4,
-        "games": 44,
-        "wins": 27,
+        "games": 45,
+        "wins": 28,
         "losses": 17,
         "ties": 0,
-        "pct": 0.614,
-        "points": 4228.34,
-        "points_against": 4104.66,
-        "avg_pg": 96.1,
-        "avg_ps": 1057.09
+        "pct": 0.622,
+        "points": 4338.9,
+        "points_against": 4170.84,
+        "avg_pg": 96.42,
+        "avg_ps": 1084.73
       },
       {
         "team": "Sparkling Unicorns",
         "active": true,
         "seasons": 3,
-        "games": 30,
-        "wins": 16,
+        "games": 31,
+        "wins": 17,
         "losses": 14,
         "ties": 0,
-        "pct": 0.533,
-        "points": 2947.06,
-        "points_against": 2779.56,
-        "avg_pg": 98.24,
-        "avg_ps": 982.35
+        "pct": 0.548,
+        "points": 3058.7,
+        "points_against": 2850.68,
+        "avg_pg": 98.67,
+        "avg_ps": 1019.57
       },
       {
         "team": "Herz-Jesu Hillbillies",
         "active": true,
         "seasons": 2,
-        "games": 16,
-        "wins": 3,
+        "games": 17,
+        "wins": 4,
         "losses": 13,
         "ties": 0,
-        "pct": 0.188,
-        "points": 1322.38,
-        "points_against": 1487.42,
-        "avg_pg": 82.65,
-        "avg_ps": 661.19
+        "pct": 0.235,
+        "points": 1422.92,
+        "points_against": 1580.4,
+        "avg_pg": 83.7,
+        "avg_ps": 711.46
       }
     ],
     "postseason": [
@@ -1621,8 +1621,8 @@
       "seasons": 12,
       "playoffs": 0,
       "playoffs_pct": 0.0,
-      "division_titles": 0,
-      "division_titles_pct": 0.0,
+      "division_titles": 1,
+      "division_titles_pct": 0.083,
       "first_bye": 0,
       "first_bye_pct": 0.0,
       "first_overall": 0,
@@ -1699,12 +1699,12 @@
       "seasons": 5,
       "playoffs": 1,
       "playoffs_pct": 0.2,
-      "division_titles": 1,
-      "division_titles_pct": 0.2,
+      "division_titles": 0,
+      "division_titles_pct": 0.0,
       "first_bye": 0,
       "first_bye_pct": 0.0,
-      "first_overall": 1,
-      "first_overall_pct": 0.2
+      "first_overall": 0,
+      "first_overall_pct": 0.0
     },
     {
       "team": "Cloud Chasers",
@@ -1833,8 +1833,8 @@
       "division_titles_pct": 0.333,
       "first_bye": 0,
       "first_bye_pct": 0.0,
-      "first_overall": 0,
-      "first_overall_pct": 0.0
+      "first_overall": 1,
+      "first_overall_pct": 0.333
     },
     {
       "team": "Waltendorf Walrus",
@@ -4878,11 +4878,11 @@
         ]
       },
       "Chuck Pirates": {
-        "wins": 12,
+        "wins": 13,
         "losses": 13,
         "ties": 0,
-        "pf": 2309.78,
-        "pa": 2527.94,
+        "pf": 2420.44,
+        "pa": 2592.3,
         "games": [
           {
             "season": 2015,
@@ -5133,6 +5133,16 @@
             "sa": 114.0,
             "team_id": 1743851,
             "game_id": "58122470"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 110.66,
+            "sa": 64.36,
+            "team_id": 1743851,
+            "game_id": "58878262"
           }
         ]
       },
@@ -8159,11 +8169,11 @@
         ]
       },
       "Cheeseheads": {
-        "wins": 6,
+        "wins": 7,
         "losses": 2,
         "ties": 0,
-        "pf": 809.04,
-        "pa": 679.96,
+        "pf": 936.62,
+        "pa": 767.1,
         "games": [
           {
             "season": 2022,
@@ -8244,6 +8254,16 @@
             "sa": 72.46,
             "team_id": 1740691,
             "game_id": "57242652"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 127.58,
+            "sa": 87.14,
+            "team_id": 1740691,
+            "game_id": "58878263"
           }
         ]
       },
@@ -8455,10 +8475,10 @@
       },
       "Graz Moeflers": {
         "wins": 13,
-        "losses": 12,
+        "losses": 13,
         "ties": 0,
-        "pf": 2527.94,
-        "pa": 2309.78,
+        "pf": 2592.3,
+        "pa": 2420.44,
         "games": [
           {
             "season": 2015,
@@ -8709,6 +8729,16 @@
             "sa": 115.48,
             "team_id": 1730487,
             "game_id": "58122470"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 64.36,
+            "sa": 110.66,
+            "team_id": 1730487,
+            "game_id": "58878262"
           }
         ]
       },
@@ -12135,10 +12165,10 @@
       },
       "Sparkling Unicorns": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "ties": 0,
-        "pf": 88.66,
-        "pa": 82.38,
+        "pf": 159.78,
+        "pa": 194.02,
         "games": [
           {
             "season": 2024,
@@ -12149,6 +12179,16 @@
             "sa": 82.38,
             "team_id": 1743544,
             "game_id": "54873470"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 71.12,
+            "sa": 111.64,
+            "team_id": 1743544,
+            "game_id": "58878268"
           }
         ]
       },
@@ -13657,11 +13697,11 @@
         ]
       },
       "Corncob Stealers": {
-        "wins": 1,
+        "wins": 2,
         "losses": 4,
         "ties": 0,
-        "pf": 434.34,
-        "pa": 474.22,
+        "pf": 568.52,
+        "pa": 582.86,
         "games": [
           {
             "season": 2018,
@@ -13712,6 +13752,16 @@
             "sa": 138.72,
             "team_id": 1740277,
             "game_id": "55902323"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 134.18,
+            "sa": 108.64,
+            "team_id": 1740277,
+            "game_id": "58878266"
           }
         ]
       },
@@ -17331,6 +17381,25 @@
             "game_id": "57242641"
           }
         ]
+      },
+      "Herz-Jesu Hillbillies": {
+        "wins": 0,
+        "losses": 1,
+        "ties": 0,
+        "pf": 92.98,
+        "pa": 100.54,
+        "games": [
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 92.98,
+            "sa": 100.54,
+            "team_id": 1743511,
+            "game_id": "58878265"
+          }
+        ]
       }
     },
     "New Fernitz Dudemeisters": {
@@ -17772,9 +17841,9 @@
       "Graz Scoundrels": {
         "wins": 14,
         "losses": 9,
-        "ties": 0,
-        "pf": 2090.08,
-        "pa": 1939.54,
+        "ties": 1,
+        "pf": 2183.82,
+        "pa": 2033.28,
         "games": [
           {
             "season": 2015,
@@ -18005,6 +18074,16 @@
             "sa": 79.52,
             "team_id": 1743561,
             "game_id": "57093545"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 93.74,
+            "sa": 93.74,
+            "team_id": 1743561,
+            "game_id": "58878261"
           }
         ]
       },
@@ -20940,9 +21019,9 @@
       "New Fernitz Dudemeisters": {
         "wins": 9,
         "losses": 14,
-        "ties": 0,
-        "pf": 1939.54,
-        "pa": 2090.08,
+        "ties": 1,
+        "pf": 2033.28,
+        "pa": 2183.82,
         "games": [
           {
             "season": 2015,
@@ -21173,6 +21252,16 @@
             "sa": 107.66,
             "team_id": 1748415,
             "game_id": "57093545"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 93.74,
+            "sa": 93.74,
+            "team_id": 1748415,
+            "game_id": "58878261"
           }
         ]
       },
@@ -23980,10 +24069,10 @@
       },
       "Großarl Goats": {
         "wins": 2,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "pf": 386.24,
-        "pa": 455.84,
+        "pf": 460.48,
+        "pa": 568.4,
         "games": [
           {
             "season": 2024,
@@ -24024,6 +24113,16 @@
             "sa": 111.26,
             "team_id": 1748858,
             "game_id": "57242595"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 74.24,
+            "sa": 112.56,
+            "team_id": 1748858,
+            "game_id": "58878264"
           }
         ]
       },
@@ -27364,10 +27463,10 @@
       },
       "Waltendorf Walrus": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "ties": 0,
-        "pf": 146.14,
-        "pa": 213.08,
+        "pf": 212.32,
+        "pa": 323.64,
         "games": [
           {
             "season": 2023,
@@ -27388,6 +27487,16 @@
             "sa": 90.82,
             "team_id": 1745690,
             "game_id": "54873469"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 66.18,
+            "sa": 110.56,
+            "team_id": 1745690,
+            "game_id": "58878267"
           }
         ]
       },
@@ -27689,10 +27798,10 @@
       },
       "Graz Raccoons": {
         "wins": 4,
-        "losses": 1,
+        "losses": 2,
         "ties": 0,
-        "pf": 474.22,
-        "pa": 434.34,
+        "pf": 582.86,
+        "pa": 568.52,
         "games": [
           {
             "season": 2018,
@@ -27743,6 +27852,16 @@
             "sa": 94.4,
             "team_id": 1743547,
             "game_id": "55902323"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 108.64,
+            "sa": 134.18,
+            "team_id": 1743547,
+            "game_id": "58878266"
           }
         ]
       },
@@ -29159,10 +29278,10 @@
     "Cheeseheads": {
       "Toronto WaterBoyz": {
         "wins": 2,
-        "losses": 6,
+        "losses": 7,
         "ties": 0,
-        "pf": 679.96,
-        "pa": 809.04,
+        "pf": 767.1,
+        "pa": 936.62,
         "games": [
           {
             "season": 2022,
@@ -29243,6 +29362,16 @@
             "sa": 74.16,
             "team_id": 1744030,
             "game_id": "57242652"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 87.14,
+            "sa": 127.58,
+            "team_id": 1744030,
+            "game_id": "58878263"
           }
         ]
       },
@@ -30185,11 +30314,11 @@
         ]
       },
       "Vienna BBB": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "ties": 0,
-        "pf": 213.08,
-        "pa": 146.14,
+        "pf": 323.64,
+        "pa": 212.32,
         "games": [
           {
             "season": 2023,
@@ -30210,6 +30339,16 @@
             "sa": 64.16,
             "team_id": 1740692,
             "game_id": "54873469"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 110.56,
+            "sa": 66.18,
+            "team_id": 1740692,
+            "game_id": "58878267"
           }
         ]
       },
@@ -30769,11 +30908,11 @@
         ]
       },
       "X-Ray Sackers": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "ties": 0,
-        "pf": 82.38,
-        "pa": 88.66,
+        "pf": 194.02,
+        "pa": 159.78,
         "games": [
           {
             "season": 2024,
@@ -30784,6 +30923,16 @@
             "sa": 88.66,
             "team_id": 1748478,
             "game_id": "54873470"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 111.64,
+            "sa": 71.12,
+            "team_id": 1748478,
+            "game_id": "58878268"
           }
         ]
       },
@@ -31127,11 +31276,11 @@
         ]
       },
       "Saurau Lightning Rockets": {
-        "wins": 2,
+        "wins": 3,
         "losses": 2,
         "ties": 0,
-        "pf": 455.84,
-        "pa": 386.24,
+        "pf": 568.4,
+        "pa": 460.48,
         "games": [
           {
             "season": 2024,
@@ -31172,6 +31321,16 @@
             "sa": 82.32,
             "team_id": 1749149,
             "game_id": "57242595"
+          },
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 112.56,
+            "sa": 74.24,
+            "team_id": 1749149,
+            "game_id": "58878264"
           }
         ]
       },
@@ -31721,6 +31880,25 @@
             "sa": 102.74,
             "team_id": 1748247,
             "game_id": "58878254"
+          }
+        ]
+      },
+      "Semmel Warriors": {
+        "wins": 1,
+        "losses": 0,
+        "ties": 0,
+        "pf": 100.54,
+        "pa": 92.98,
+        "games": [
+          {
+            "season": 2026,
+            "week": 3,
+            "type": "regular",
+            "round": null,
+            "sf": 100.54,
+            "sa": 92.98,
+            "team_id": 1748247,
+            "game_id": "58878265"
           }
         ]
       }
