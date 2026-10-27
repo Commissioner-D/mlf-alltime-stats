@@ -1,16 +1,16 @@
 {
   "season": 2026,
   "teams": {
-    "1743561": {
-      "team_id": 1743561,
-      "name": "New Fernitz Dudemeisters",
-      "owner": "Gentlebert",
-      "division": "Rigel"
-    },
     "1743511": {
       "team_id": 1743511,
       "name": "Semmel Warriors",
       "owner": "paul-semmel",
+      "division": "Rigel"
+    },
+    "1743561": {
+      "team_id": 1743561,
+      "name": "New Fernitz Dudemeisters",
+      "owner": "Gentlebert",
       "division": "Rigel"
     },
     "1743547": {
@@ -55,16 +55,16 @@
       "owner": "BurRiz",
       "division": "Vega"
     },
-    "1744030": {
-      "team_id": 1744030,
-      "name": "Cheeseheads",
-      "owner": "Sandro91",
-      "division": "Vega"
-    },
     "1740277": {
       "team_id": 1740277,
       "name": "Graz Raccoons",
       "owner": "KnechtRuprecht",
+      "division": "Vega"
+    },
+    "1744030": {
+      "team_id": 1744030,
+      "name": "Cheeseheads",
+      "owner": "Sandro91",
       "division": "Vega"
     },
     "1748247": {
@@ -578,6 +578,86 @@
       "t2_id": 1749149,
       "t2_name": "Großarl Goats",
       "t2_score": 85.9
+    },
+    {
+      "week": 7,
+      "game_id": "58878293",
+      "t1_id": 1748247,
+      "t1_name": "Herz-Jesu Hillbillies",
+      "t1_score": 106.58,
+      "t2_id": 1740691,
+      "t2_name": "Toronto WaterBoyz",
+      "t2_score": 109.4
+    },
+    {
+      "week": 7,
+      "game_id": "58878292",
+      "t1_id": 1743544,
+      "t1_name": "X-Ray Sackers",
+      "t1_score": 101.12,
+      "t2_id": 1740692,
+      "t2_name": "Waltendorf Walrus",
+      "t2_score": 111.68
+    },
+    {
+      "week": 7,
+      "game_id": "58878291",
+      "t1_id": 1743511,
+      "t1_name": "Semmel Warriors",
+      "t1_score": 88.92,
+      "t2_id": 1743547,
+      "t2_name": "Corncob Stealers",
+      "t2_score": 77.5
+    },
+    {
+      "week": 7,
+      "game_id": "58878294",
+      "t1_id": 1740277,
+      "t1_name": "Graz Raccoons",
+      "t1_score": 110.72,
+      "t2_id": 1743561,
+      "t2_name": "New Fernitz Dudemeisters",
+      "t2_score": 80.54
+    },
+    {
+      "week": 7,
+      "game_id": "58878296",
+      "t1_id": 1730487,
+      "t1_name": "Chuck Pirates",
+      "t1_score": 78.24,
+      "t2_id": 1744030,
+      "t2_name": "Cheeseheads",
+      "t2_score": 59.28
+    },
+    {
+      "week": 7,
+      "game_id": "58878295",
+      "t1_id": 1745690,
+      "t1_name": "Vienna BBB",
+      "t1_score": 115.26,
+      "t2_id": 1748415,
+      "t2_name": "Graz Scoundrels",
+      "t2_score": 109.28
+    },
+    {
+      "week": 7,
+      "game_id": "58878297",
+      "t1_id": 1743851,
+      "t1_name": "Graz Moeflers",
+      "t1_score": 95.42,
+      "t2_id": 1748858,
+      "t2_name": "Saurau Lightning Rockets",
+      "t2_score": 69.12
+    },
+    {
+      "week": 7,
+      "game_id": "58876992",
+      "t1_id": 1748478,
+      "t1_name": "Sparkling Unicorns",
+      "t1_score": 70.88,
+      "t2_id": 1749149,
+      "t2_name": "Großarl Goats",
+      "t2_score": 87.72
     }
   ],
   "postseason": [],
