@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-10-27T12:29:59Z",
+    "generated": "2026-10-29T16:30:52Z",
     "seasons": [
       2015,
       2016,
@@ -202,10 +202,10 @@
         "losses": 71,
         "ties": 0,
         "pct": 0.575,
-        "points": 15570.82,
+        "points": 15571.82,
         "points_against": 14539.72,
         "avg_pg": 93.24,
-        "avg_ps": 1297.57
+        "avg_ps": 1297.65
       },
       {
         "team": "X-Ray Sackers",
@@ -245,7 +245,7 @@
         "ties": 0,
         "pct": 0.372,
         "points": 12701.94,
-        "points_against": 14290.48,
+        "points_against": 14290.38,
         "avg_pg": 81.42,
         "avg_ps": 1058.49
       },
@@ -413,7 +413,7 @@
         "ties": 0,
         "pct": 0.478,
         "points": 8518.32,
-        "points_against": 8423.1,
+        "points_against": 8424.1,
         "avg_pg": 94.65,
         "avg_ps": 1216.9
       },
@@ -510,10 +510,10 @@
         "losses": 16,
         "ties": 0,
         "pct": 0.238,
-        "points": 1812.44,
+        "points": 1812.34,
         "points_against": 1983.56,
-        "avg_pg": 86.31,
-        "avg_ps": 906.22
+        "avg_pg": 86.3,
+        "avg_ps": 906.17
       }
     ],
     "regular_season": [
@@ -568,10 +568,10 @@
         "losses": 66,
         "ties": 0,
         "pct": 0.577,
-        "points": 14534.5,
+        "points": 14535.5,
         "points_against": 13550.32,
-        "avg_pg": 93.17,
-        "avg_ps": 1211.21
+        "avg_pg": 93.18,
+        "avg_ps": 1211.29
       },
       {
         "team": "X-Ray Sackers",
@@ -611,7 +611,7 @@
         "ties": 0,
         "pct": 0.372,
         "points": 12701.94,
-        "points_against": 14290.48,
+        "points_against": 14290.38,
         "avg_pg": 81.42,
         "avg_ps": 1058.49
       },
@@ -779,7 +779,7 @@
         "ties": 0,
         "pct": 0.478,
         "points": 8518.32,
-        "points_against": 8423.1,
+        "points_against": 8424.1,
         "avg_pg": 94.65,
         "avg_ps": 1216.9
       },
@@ -876,10 +876,10 @@
         "losses": 16,
         "ties": 0,
         "pct": 0.238,
-        "points": 1812.44,
+        "points": 1812.34,
         "points_against": 1983.56,
-        "avg_pg": 86.31,
-        "avg_ps": 906.22
+        "avg_pg": 86.3,
+        "avg_ps": 906.17
       }
     ],
     "postseason": [
@@ -8429,7 +8429,7 @@
         "losses": 0,
         "ties": 0,
         "pf": 387.0,
-        "pa": 336.22,
+        "pa": 336.12,
         "games": [
           {
             "season": 2025,
@@ -8467,7 +8467,7 @@
             "type": "regular",
             "round": null,
             "sf": 109.4,
-            "sa": 106.58,
+            "sa": 106.48,
             "team_id": 1740691,
             "game_id": "58878293"
           }
@@ -17352,7 +17352,7 @@
         "wins": 8,
         "losses": 4,
         "ties": 0,
-        "pf": 1203.82,
+        "pf": 1204.82,
         "pa": 1104.26,
         "games": [
           {
@@ -17470,7 +17470,7 @@
             "week": 7,
             "type": "regular",
             "round": null,
-            "sf": 88.92,
+            "sf": 89.92,
             "sa": 77.5,
             "team_id": 1743511,
             "game_id": "58878291"
@@ -28575,7 +28575,7 @@
         "losses": 8,
         "ties": 0,
         "pf": 1104.26,
-        "pa": 1203.82,
+        "pa": 1204.82,
         "games": [
           {
             "season": 2021,
@@ -28693,7 +28693,7 @@
             "type": "regular",
             "round": null,
             "sf": 77.5,
-            "sa": 88.92,
+            "sa": 89.92,
             "team_id": 1743547,
             "game_id": "58878291"
           }
@@ -32238,7 +32238,7 @@
         "wins": 0,
         "losses": 4,
         "ties": 0,
-        "pf": 336.22,
+        "pf": 336.12,
         "pa": 387.0,
         "games": [
           {
@@ -32276,7 +32276,7 @@
             "week": 7,
             "type": "regular",
             "round": null,
-            "sf": 106.58,
+            "sf": 106.48,
             "sa": 109.4,
             "team_id": 1748247,
             "game_id": "58878293"
